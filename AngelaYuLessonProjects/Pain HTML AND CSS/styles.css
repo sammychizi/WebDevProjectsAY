@@ -1,0 +1,49 @@
+/* fonts
+font-family: 'Barlow', sans-serif;
+font-family: 'Kalnia', serif;
+
+colors
+#464545
+*/
+body{
+    background-image: url('pics/pinkHearts.png')
+}
+h1{
+    color:#464545;
+    text-align:center;
+    font-family: 'Kalnia', serif;
+    font-size: 50px;
+}
+h4{
+    font-family: 'Barlow', sans-serif;
+    font-size: 15px;
+    color:#464545;
+    text-align:center;
+}
+p{
+    font-family: 'Barlow', sans-serif;
+    font-size: 15px;
+    color:#464545;
+}
+input{
+    border-radius: 5px;
+    height: 30px;
+    width: 200px;
+}
+.person{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color:#464545;
+    text-align:center;
+}
+.calculator-body{
+    text-align:center;
+}
+#embrace{
+    text-align:center;
+    font-weight:semi-bold;
+}
+#inputs{
+    flex-direction:column;
+}

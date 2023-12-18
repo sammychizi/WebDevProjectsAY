@@ -13,8 +13,10 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       fontFamily: {
-        sans: ['var(--font-inter)'],
-        oswald: ['var(--font-oswald)'],
+        'sans': ['var(--font-inter)'],
+        'oswald': ['var(--font-oswald)'],
+        // dance: ['var(--font-dance)'],
+        // nosajap: ['var(--font-nosajap)'],
       },
     },
   },
