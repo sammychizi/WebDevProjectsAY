@@ -11,7 +11,7 @@
   }
   
   body {
-    background-color: #564A4A;
+    background-color: #141E46;
   }
   
   h1 {
@@ -19,12 +19,12 @@
     font-family: 'Sansita Swashed', cursive;
     text-shadow: 5px 0 #232931;
     font-size: 8rem;
-    color: #F55C47;
+    color: #FF6969;
   }
   
   p {
     font-size: 2rem;
-    color: #9FE6A0;
+    color: #FF6969;
     font-family: 'Indie Flower', cursive;
   }
   
