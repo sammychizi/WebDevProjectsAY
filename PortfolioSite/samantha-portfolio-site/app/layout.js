@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
             <h3>Hobbies</h3>
           </Link>
           <Link href='./about'>
-            <h3>CV</h3>
+            <h3>Resume</h3>
           </Link>
           <Link href='./about'>
             <h3>Projects</h3>
