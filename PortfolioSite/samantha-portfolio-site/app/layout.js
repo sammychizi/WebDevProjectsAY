@@ -36,7 +36,6 @@ export default function RootLayout({ children }) {
             <h3>Projects</h3>
           </Link>
         </nav>
-        <div className='h-0.5 bg-amber-400'></div>
         {children}
       </body>
     </html>
