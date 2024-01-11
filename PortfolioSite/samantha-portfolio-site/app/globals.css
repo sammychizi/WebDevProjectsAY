@@ -17,14 +17,15 @@
 }
 
 body {
-  
+  background-color: #f4f6fc;
 }
 h3{
   font-size: 12px;
   font-family: 'oswald';
-  color: white;
+  color: #76aee5;
 }
 h1{
   font-family: 'ballet';
   font-size: 48px;
+  color: #76aee5;
 }

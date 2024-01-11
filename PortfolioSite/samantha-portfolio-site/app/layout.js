@@ -24,13 +24,16 @@ export default function RootLayout({ children }) {
       <body className='bg-black'>
         <nav className='p-4 flex justify-end space-x-6 bg-black'>
           <Link href='./about'>
-            <h3 className='font-oswald'>About</h3>
-          </Link>
-          <Link href='./about'>
-            <h3>Skills</h3>
+            <h3 className='font-oswald'>Skills</h3>
           </Link>
           <Link href='./about'>
             <h3>Hobbies</h3>
+          </Link>
+          <Link href='./about'>
+            <h3>CV</h3>
+          </Link>
+          <Link href='./about'>
+            <h3>Projects</h3>
           </Link>
         </nav>
         <div className='h-0.5 bg-amber-400'></div>
