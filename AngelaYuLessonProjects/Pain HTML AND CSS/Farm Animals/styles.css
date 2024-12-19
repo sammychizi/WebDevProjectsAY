@@ -1,0 +1,67 @@
+/* /* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 800
+
+.ojuju-<uniquifier> {
+  font-family: "Ojuju", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 800
+
+.playpen-sans-<uniquifier> {
+  font-family: "Playpen Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+body{
+    text-align: center;
+    background-color: #ffffff;
+}
+h1{
+    font-family: "Playpen Sans", cursive;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+h3{
+    font-family: "Ojuju", sans-serif;
+    font-size: 20px;
+}
+img{
+    height: 120px;
+    width: 120px;
+    padding-top:25px;
+}
+#animals{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.images{
+    flex: 1;
+    border: solid 4px #D71313;
+    border-radius: 100%;
+    margin: 5px;
+    height: 180px;
+    width: 180px;
+} 
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    position: relative;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f4f4f4; /* Optional: Add background color */
+    padding: 20px; /* Optional: Add padding */
+    box-sizing: border-box; /* Optional: Ensure padding is included in width */
+}
